@@ -12,8 +12,8 @@ username = input("Please enter username: ")
 print("you entered", username)
 password = getpass("Please enter password: ")
 profile = input("Who's account are you getting followers from: ")
-max_follows = 125
-max_likes = 100
+max_follows = 250
+max_likes = 150
 driver = 0
 def main():
     global driver
